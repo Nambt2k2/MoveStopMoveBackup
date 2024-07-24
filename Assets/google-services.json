@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395093676695",
+    "project_id": "move-stop-move",
+    "storage_bucket": "move-stop-move.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395093676695:android:7fce8a971c3f63ad52cfd2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MoveStopMove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2JzBVedInXd4gMcrBEuO-_LoXefFXDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
